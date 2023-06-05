@@ -9,7 +9,7 @@
 </head>
 <body>
     <header>
-        <nav>
+        <nav id>
             <img src="" alt=""> 
             <ul>
                 <li></li>
@@ -18,6 +18,17 @@
             </ul>
         </nav>
     </header>
+    <main>
+
+    </main>
+    <footer>
+    <img src="" alt=""> 
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+    </footer>
     
 </body>
 </html>
