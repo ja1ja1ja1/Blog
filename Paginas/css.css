@@ -1,0 +1,40 @@
+nav.navbar{
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: cadetblue;
+}
+nav.navbar ul{
+    float: left;
+    list-style-type: none;
+    
+}
+nav.navbar ul li{
+    display: inline;
+    list-style-type: none;
+}
+nav.navbar ul li a{
+    padding: 20px;
+    text-decoration: none;
+    color: black;
+    display: inline-block;
+    font-size: large;
+}
+nav.navbar ul li a:hover{
+    background-color: rgb(79, 114, 116);
+}
+
+footer.rodape{
+    margin:0;
+    padding: 0;
+    background-color: cadetblue;
+    overflow: hidden;
+}
+footer.rodape ul{
+    float: left;
+
+}
+footer.rodape ul li{
+    list-style-type: none;
+    display: inline;
+}
